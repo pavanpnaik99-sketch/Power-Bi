@@ -22,7 +22,7 @@ All assignment questions are solved in **one consolidated Power BI file**, as re
 
 ---
 
-## 📌 Assignment Questions
+## 📌  Questions
 
 ### Q1. Power BI Platform
 - Explained what Power BI is  
@@ -128,4 +128,4 @@ Created a table visual with the following formatting:
 ## 🚀 How to Use
 1. Download the `.pbix` file  
 2. Open it using Power BI Desktop  
-3. Navigate through report pages to view each assignment solution  
+3. Navigate through report pages to view each  solution  
