@@ -128,4 +128,8 @@ Created a table visual with the following formatting:
 ## 🚀 How to Use
 1. Download the `.pbix` file  
 2. Open it using Power BI Desktop  
-3. Navigate through report pages to view each  solution  
+3. Navigate through report pages to view each  solution
+
+ ## Dashboard Preview
+![Power BI Dashboard](https://raw.githubusercontent.com/pavanpnaik99-sketch/Power-Bi/main/dashboard_p.png)
+
